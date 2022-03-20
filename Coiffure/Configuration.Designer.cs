@@ -210,7 +210,7 @@ namespace Coiffure
             this.btn_annule.FlatAppearance.BorderSize = 0;
             this.btn_annule.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_annule.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_annule.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btn_annule.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_annule.Location = new System.Drawing.Point(248, 174);
             this.btn_annule.Name = "btn_annule";
             this.btn_annule.Size = new System.Drawing.Size(72, 27);
