@@ -209,7 +209,7 @@ namespace Coiffure
             this.btn_annule.BackColor = System.Drawing.Color.Silver;
             this.btn_annule.FlatAppearance.BorderSize = 0;
             this.btn_annule.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_annule.Font = new System.Drawing.Font("Futura-Medium", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_annule.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_annule.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btn_annule.Location = new System.Drawing.Point(248, 174);
             this.btn_annule.Name = "btn_annule";
@@ -222,12 +222,12 @@ namespace Coiffure
             // 
             // btn_modefier_sauvgarder
             // 
-            this.btn_modefier_sauvgarder.BackColor = System.Drawing.Color.DarkGray;
+            this.btn_modefier_sauvgarder.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(167)))), ((int)(((byte)(67)))));
             this.btn_modefier_sauvgarder.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btn_modefier_sauvgarder.FlatAppearance.BorderSize = 0;
             this.btn_modefier_sauvgarder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_modefier_sauvgarder.Font = new System.Drawing.Font("Futura-Medium", 11.25F, System.Drawing.FontStyle.Bold);
-            this.btn_modefier_sauvgarder.ForeColor = System.Drawing.Color.Black;
+            this.btn_modefier_sauvgarder.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold);
+            this.btn_modefier_sauvgarder.ForeColor = System.Drawing.Color.LightGray;
             this.btn_modefier_sauvgarder.Location = new System.Drawing.Point(329, 174);
             this.btn_modefier_sauvgarder.Name = "btn_modefier_sauvgarder";
             this.btn_modefier_sauvgarder.Size = new System.Drawing.Size(147, 27);
